@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>记事 - 分类 - MiTsuKi</title>
+        <link>http://localhost:1313/categories/%E8%AE%B0%E4%BA%8B/</link>
+        <description>记事 - 分类 - MiTsuKi</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Feb 2025 04:12:30 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%AE%B0%E4%BA%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>FinishFeeling</title>
+    <link>http://localhost:1313/finishfeeling/</link>
+    <pubDate>Wed, 19 Feb 2025 04:12:30 &#43;0800</pubDate>
+    <author>MiTsuKi</author>
+    <guid>http://localhost:1313/finishfeeling/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Bg3.jpg" referrerpolicy="no-referrer">
+            </div><h2 id="建站完成">建站完成！</h2>
+<p>太感动了555，在此时此刻，终于把我的个人站建立完毕了！</p>]]></description>
+</item>
+</channel>
+</rss>

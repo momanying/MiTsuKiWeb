@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Feeling - 标签 - MiTsuKi</title>
+        <link>http://localhost:1313/tags/feeling/</link>
+        <description>Feeling - 标签 - MiTsuKi</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 18 Feb 2025 17:04:19 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/feeling/" rel="self" type="application/rss+xml" /><item>
+    <title>2024年度总结</title>
+    <link>http://localhost:1313/2024conclusion/</link>
+    <pubDate>Tue, 18 Feb 2025 17:04:19 &#43;0800</pubDate>
+    <author>MiTsuKi</author>
+    <guid>http://localhost:1313/2024conclusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Bg2.png" referrerpolicy="no-referrer">
+            </div><p>##我的2024年度总结
+不知不觉已经是一个大三的学生了，马上就要实习，不知道怎样形容现在的心情呢，也许有兴奋，也许有抗拒？但是总要去面对的！</p>]]></description>
+</item>
+</channel>
+</rss>
